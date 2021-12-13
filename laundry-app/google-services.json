@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464921650230",
+    "project_id": "digital-laundry-316920",
+    "storage_bucket": "digital-laundry-316920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464921650230:android:c0c2c85e1b44e743a42497",
+        "android_client_info": {
+          "package_name": "com.fyp.digitallaundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464921650230-ftbh7slini7dckijvc3p55fhqkednaak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrNsbnfSt-QXplP98fYYtFLEG5CTH-uF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464921650230-ftbh7slini7dckijvc3p55fhqkednaak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
